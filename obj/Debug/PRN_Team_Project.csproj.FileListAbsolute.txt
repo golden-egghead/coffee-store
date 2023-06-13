@@ -1,0 +1,17 @@
+D:\LapTrinh\Nunit Test\PRN_Team_Project\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\LapTrinh\Nunit Test\PRN_Team_Project\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\LapTrinh\Nunit Test\PRN_Team_Project\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\LapTrinh\Nunit Test\PRN_Team_Project\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+D:\LapTrinh\Nunit Test\PRN_Team_Project\bin\Debug\PRN_Team_Project.dll
+D:\LapTrinh\Nunit Test\PRN_Team_Project\bin\Debug\PRN_Team_Project.pdb
+D:\LapTrinh\Nunit Test\PRN_Team_Project\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\LapTrinh\Nunit Test\PRN_Team_Project\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\LapTrinh\Nunit Test\PRN_Team_Project\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\LapTrinh\Nunit Test\PRN_Team_Project\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\LapTrinh\Nunit Test\PRN_Team_Project\obj\Debug\PRN_Team_Project.csproj.AssemblyReference.cache
+D:\LapTrinh\Nunit Test\PRN_Team_Project\obj\Debug\PRN_Team_Project.Main.resources
+D:\LapTrinh\Nunit Test\PRN_Team_Project\obj\Debug\PRN_Team_Project.csproj.GenerateResource.cache
+D:\LapTrinh\Nunit Test\PRN_Team_Project\obj\Debug\PRN_Team_Project.csproj.CoreCompileInputs.cache
+D:\LapTrinh\Nunit Test\PRN_Team_Project\obj\Debug\PRN_Team_Project.csproj.CopyComplete
+D:\LapTrinh\Nunit Test\PRN_Team_Project\obj\Debug\PRN_Team_Project.dll
+D:\LapTrinh\Nunit Test\PRN_Team_Project\obj\Debug\PRN_Team_Project.pdb
